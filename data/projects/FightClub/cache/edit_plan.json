@@ -1,0 +1,1379 @@
+[
+  {
+    "audio_text": "We're living in the era of lonely men.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_103.jpg",
+    "frame_index": 36,
+    "similarity_score": 0.26795899868011475,
+    "chunk_index": 0,
+    "search_context": "без контекста (общий поиск)",
+    "search_pool_size": 1755
+  },
+  {
+    "audio_text": "Open TikTok, Reels, even YouTube shorts, and you'll see them.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1001.jpg",
+    "frame_index": 5,
+    "similarity_score": 0.2840738594532013,
+    "chunk_index": 1,
+    "search_context": "без контекста (общий поиск)",
+    "search_pool_size": 1755
+  },
+  {
+    "audio_text": "Thousands of clips set to funk beats.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1015.jpg",
+    "frame_index": 20,
+    "similarity_score": 0.29344800114631653,
+    "chunk_index": 2,
+    "search_context": "без контекста (общий поиск)",
+    "search_pool_size": 1755
+  },
+  {
+    "audio_text": "Tyler Durden's face, quotes about self-destruction, calls to",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1277.jpg",
+    "frame_index": 310,
+    "similarity_score": 0.31621766090393066,
+    "chunk_index": 3,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "quit your job, find yourself, hit the gym, and be a Sigma.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1303.jpg",
+    "frame_index": 340,
+    "similarity_score": 0.20102733373641968,
+    "chunk_index": 4,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "We've turned Tyler into a symbol of freedom,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1655.jpg",
+    "frame_index": 730,
+    "similarity_score": 0.23600149154663086,
+    "chunk_index": 5,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "a savior who's supposed to pull us out of office slavery.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1673.jpg",
+    "frame_index": 750,
+    "similarity_score": 0.2655186951160431,
+    "chunk_index": 6,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "But there's one problem.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1664.jpg",
+    "frame_index": 740,
+    "similarity_score": 0.2795168459415436,
+    "chunk_index": 7,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "If you think Tyler is a hero,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_904.jpg",
+    "frame_index": 1650,
+    "similarity_score": 0.22712743282318115,
+    "chunk_index": 8,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "you watched the movie with your eyes closed.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_878.jpg",
+    "frame_index": 1620,
+    "similarity_score": 0.2919608950614929,
+    "chunk_index": 9,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Fincher and Pollinook didn't make a life manual.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_896.jpg",
+    "frame_index": 1640,
+    "similarity_score": 0.291973352432251,
+    "chunk_index": 10,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "They made a warning.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_544.jpg",
+    "frame_index": 1250,
+    "similarity_score": 0.22744011878967285,
+    "chunk_index": 11,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And the funniest part?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_751.jpg",
+    "frame_index": 1480,
+    "similarity_score": 0.24584023654460907,
+    "chunk_index": 12,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "The people who shout,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_742.jpg",
+    "frame_index": 1470,
+    "similarity_score": 0.282102108001709,
+    "chunk_index": 13,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "I'm not like everyone else, the loudest,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_715.jpg",
+    "frame_index": 1440,
+    "similarity_score": 0.26555678248405457,
+    "chunk_index": 14,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "ended up wearing the same black shirts.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1295.jpg",
+    "frame_index": 330,
+    "similarity_score": 0.2129712700843811,
+    "chunk_index": 15,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "They just swapped one master for another.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_490.jpg",
+    "frame_index": 1190,
+    "similarity_score": 0.23146820068359375,
+    "chunk_index": 16,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Today, we're going to break down how Tyler Durden didn't create an army of free men,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1277.jpg",
+    "frame_index": 310,
+    "similarity_score": 0.3042401969432831,
+    "chunk_index": 17,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "but the most successful fascist cult in film history.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1222.jpg",
+    "frame_index": 250,
+    "similarity_score": 0.24854737520217896,
+    "chunk_index": 18,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "NYU would most likely join it.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_751.jpg",
+    "frame_index": 1480,
+    "similarity_score": 0.2171284556388855,
+    "chunk_index": 19,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "At the start of the film, we meet the narrator.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_788.jpg",
+    "frame_index": 1520,
+    "similarity_score": 0.30783697962760925,
+    "chunk_index": 20,
+    "search_context": "смена контекста -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He is us.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_779.jpg",
+    "frame_index": 1510,
+    "similarity_score": 0.2608763873577118,
+    "chunk_index": 21,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He measures his life through furniture catalogs.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_143.jpg",
+    "frame_index": 480,
+    "similarity_score": 0.23042871057987213,
+    "chunk_index": 22,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "We used to read pornography.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1411.jpg",
+    "frame_index": 460,
+    "similarity_score": 0.27201348543167114,
+    "chunk_index": 23,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "Now we read IKEA catalogs.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1394.jpg",
+    "frame_index": 440,
+    "similarity_score": 0.24171878397464752,
+    "chunk_index": 24,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "The narrator is miserable.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_184.jpg",
+    "frame_index": 850,
+    "similarity_score": 0.25202202796936035,
+    "chunk_index": 25,
+    "search_context": "подтверждение -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He's a slave to things.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_22.jpg",
+    "frame_index": 890,
+    "similarity_score": 0.2676599323749542,
+    "chunk_index": 26,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "His apartment is a perfectly arranged prison of comfort.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_210.jpg",
+    "frame_index": 880,
+    "similarity_score": 0.27715742588043213,
+    "chunk_index": 27,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "And then Tyler shows up.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1664.jpg",
+    "frame_index": 740,
+    "similarity_score": 0.25080475211143494,
+    "chunk_index": 28,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He's the complete opposite.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1637.jpg",
+    "frame_index": 710,
+    "similarity_score": 0.24745506048202515,
+    "chunk_index": 29,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He wears a red leather jacket, steals fat from lipo suction clinics,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1673.jpg",
+    "frame_index": 750,
+    "similarity_score": 0.2675716280937195,
+    "chunk_index": 30,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "and pisses in rich people's soup.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1655.jpg",
+    "frame_index": 730,
+    "similarity_score": 0.24913901090621948,
+    "chunk_index": 31,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Tyler Durden offers a deal.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_544.jpg",
+    "frame_index": 1250,
+    "similarity_score": 0.31561970710754395,
+    "chunk_index": 32,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Give up your couch, your TV, your career, and you'll be free.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_508.jpg",
+    "frame_index": 1210,
+    "similarity_score": 0.2527167797088623,
+    "chunk_index": 33,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And it sounds damn tempting, doesn't it?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1303.jpg",
+    "frame_index": 340,
+    "similarity_score": 0.23737342655658722,
+    "chunk_index": 34,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "When he says that only after we've lost everything are we free to do anything,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_355.jpg",
+    "frame_index": 1040,
+    "similarity_score": 0.23401133716106415,
+    "chunk_index": 35,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "part of us wants to believe him.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1295.jpg",
+    "frame_index": 330,
+    "similarity_score": 0.2343888133764267,
+    "chunk_index": 36,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "But look a little closer at what happens next.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1277.jpg",
+    "frame_index": 310,
+    "similarity_score": 0.26905107498168945,
+    "chunk_index": 37,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "The narrator burns down his apartment.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1312.jpg",
+    "frame_index": 350,
+    "similarity_score": 0.2776488661766052,
+    "chunk_index": 38,
+    "search_context": "смена контекста -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He moves into the house on paper street.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_643.jpg",
+    "frame_index": 1360,
+    "similarity_score": 0.2571598291397095,
+    "chunk_index": 39,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "A house with rusty water, cold rooms, and filth everywhere.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_661.jpg",
+    "frame_index": 1380,
+    "similarity_score": 0.26622864603996277,
+    "chunk_index": 40,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He trades the slavery of comfort for the slavery of discomfort.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_625.jpg",
+    "frame_index": 1340,
+    "similarity_score": 0.2742537558078766,
+    "chunk_index": 41,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "But for now, it still feels like freedom.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_634.jpg",
+    "frame_index": 1350,
+    "similarity_score": 0.25289565324783325,
+    "chunk_index": 42,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "At least until Project Mayhem begins.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1664.jpg",
+    "frame_index": 740,
+    "similarity_score": 0.23689985275268555,
+    "chunk_index": 43,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "Think back to the scene where Tyler stands in front of his soldiers.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1637.jpg",
+    "frame_index": 710,
+    "similarity_score": 0.3055180609226227,
+    "chunk_index": 44,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "What does he tell them?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1592.jpg",
+    "frame_index": 660,
+    "similarity_score": 0.24179214239120483,
+    "chunk_index": 45,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "You are not unique.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1213.jpg",
+    "frame_index": 240,
+    "similarity_score": 0.24013982713222504,
+    "chunk_index": 46,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "You are the same decaying organic matter as everything else.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1178.jpg",
+    "frame_index": 200,
+    "similarity_score": 0.2632385194301605,
+    "chunk_index": 47,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "A paradox.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1295.jpg",
+    "frame_index": 330,
+    "similarity_score": 0.23637638986110687,
+    "chunk_index": 48,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "People come to Fight Club to feel alive, to break out of the gray mass of office drones.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_274.jpg",
+    "frame_index": 950,
+    "similarity_score": 0.26486536860466003,
+    "chunk_index": 49,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And what does Durden do?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_31.jpg",
+    "frame_index": 990,
+    "similarity_score": 0.3189084827899933,
+    "chunk_index": 50,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He shaves their heads, dresses them in black, bans them from asking questions,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_68.jpg",
+    "frame_index": 1400,
+    "similarity_score": 0.24529042840003967,
+    "chunk_index": 51,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "strips them of their names.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_715.jpg",
+    "frame_index": 1440,
+    "similarity_score": 0.25509074330329895,
+    "chunk_index": 52,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "In death, a member of Project Mayhem has a name.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_751.jpg",
+    "frame_index": 1480,
+    "similarity_score": 0.27672243118286133,
+    "chunk_index": 53,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "His name was Robert Paulson.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1358.jpg",
+    "frame_index": 400,
+    "similarity_score": 0.23391565680503845,
+    "chunk_index": 54,
+    "search_context": "смена контекста -> Robert Paulson",
+    "search_pool_size": 24
+  },
+  {
+    "audio_text": "Notice the irony.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1303.jpg",
+    "frame_index": 340,
+    "similarity_score": 0.230296790599823,
+    "chunk_index": 55,
+    "search_context": "удержание контекста (Robert Paulson)",
+    "search_pool_size": 24
+  },
+  {
+    "audio_text": "In the corporate world, you have a badge with your name on it.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1330.jpg",
+    "frame_index": 370,
+    "similarity_score": 0.2434796690940857,
+    "chunk_index": 56,
+    "search_context": "удержание контекста (Robert Paulson)",
+    "search_pool_size": 24
+  },
+  {
+    "audio_text": "In Tyler's world, you're nobody.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_904.jpg",
+    "frame_index": 1650,
+    "similarity_score": 0.2498476207256317,
+    "chunk_index": 57,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "You're a space monkey, ready to die just to help launch the rocket.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_878.jpg",
+    "frame_index": 1620,
+    "similarity_score": 0.2743128538131714,
+    "chunk_index": 58,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Tyler criticizes corporations for turning people into cogs.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_896.jpg",
+    "frame_index": 1640,
+    "similarity_score": 0.2780832350254059,
+    "chunk_index": 59,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "But he builds a machine where people are disposable parts.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1673.jpg",
+    "frame_index": 750,
+    "similarity_score": 0.2348051518201828,
+    "chunk_index": 60,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "This is an anarchy.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1637.jpg",
+    "frame_index": 710,
+    "similarity_score": 0.24039201438426971,
+    "chunk_index": 61,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "This is a totalitarian cult.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1222.jpg",
+    "frame_index": 250,
+    "similarity_score": 0.22859248518943787,
+    "chunk_index": 62,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Tyler Durden isn't a liberator.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_544.jpg",
+    "frame_index": 1250,
+    "similarity_score": 0.30985039472579956,
+    "chunk_index": 63,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He's a textbook cult leader.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_283.jpg",
+    "frame_index": 960,
+    "similarity_score": 0.23340049386024475,
+    "chunk_index": 64,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He uses pain and isolation to break his followers' minds",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_256.jpg",
+    "frame_index": 930,
+    "similarity_score": 0.2792053818702698,
+    "chunk_index": 65,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "and rebuild them in his own image.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_238.jpg",
+    "frame_index": 910,
+    "similarity_score": 0.24419157207012177,
+    "chunk_index": 66,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And if you look closely at how Project Mayhem functions,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1376.jpg",
+    "frame_index": 420,
+    "similarity_score": 0.24510458111763,
+    "chunk_index": 67,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "it's honestly unsettling.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1402.jpg",
+    "frame_index": 450,
+    "similarity_score": 0.25334253907203674,
+    "chunk_index": 68,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Everything is divided into cells, each with its role.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_940.jpg",
+    "frame_index": 1690,
+    "similarity_score": 0.23799960315227509,
+    "chunk_index": 69,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "There are enforcers, recruiters, and those who get stuck with all the dirty work.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_904.jpg",
+    "frame_index": 1650,
+    "similarity_score": 0.25369903445243835,
+    "chunk_index": 70,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "This isn't some hobby club anymore.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1213.jpg",
+    "frame_index": 240,
+    "similarity_score": 0.22126208245754242,
+    "chunk_index": 71,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "It's a tiny, hyper-disciplined state.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1178.jpg",
+    "frame_index": 200,
+    "similarity_score": 0.26358747482299805,
+    "chunk_index": 72,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And the whole thing stays together not because of ideology,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1592.jpg",
+    "frame_index": 660,
+    "similarity_score": 0.22671881318092346,
+    "chunk_index": 73,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "but because of devotion to one man.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1583.jpg",
+    "frame_index": 650,
+    "similarity_score": 0.27649927139282227,
+    "chunk_index": 74,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And here's the real paradox.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1376.jpg",
+    "frame_index": 420,
+    "similarity_score": 0.21470500528812408,
+    "chunk_index": 75,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Tyler truly hates the system, yet instantly builds his own.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1402.jpg",
+    "frame_index": 450,
+    "similarity_score": 0.2577974200248718,
+    "chunk_index": 76,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He throws out a line like, don't follow me,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_107.jpg",
+    "frame_index": 80,
+    "similarity_score": 0.23297502100467682,
+    "chunk_index": 77,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "but does everything to make sure his words become their law.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1042.jpg",
+    "frame_index": 50,
+    "similarity_score": 0.27653494477272034,
+    "chunk_index": 78,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He even calls them space monkeys, and they gladly accept the title.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_283.jpg",
+    "frame_index": 960,
+    "similarity_score": 0.24378249049186707,
+    "chunk_index": 79,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Because, ironically, it's the first time anyone has offered them",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_31.jpg",
+    "frame_index": 990,
+    "similarity_score": 0.2533380389213562,
+    "chunk_index": 80,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "any identity at all.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_292.jpg",
+    "frame_index": 970,
+    "similarity_score": 0.26338717341423035,
+    "chunk_index": 81,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Let's talk business.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_274.jpg",
+    "frame_index": 950,
+    "similarity_score": 0.26387569308280945,
+    "chunk_index": 82,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "How does Tyler Durden make money?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_256.jpg",
+    "frame_index": 930,
+    "similarity_score": 0.31276124715805054,
+    "chunk_index": 83,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He makes soap out of human fat, and sells it back to wealthy women for $20 a bar.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_760.jpg",
+    "frame_index": 1490,
+    "similarity_score": 0.22186382114887238,
+    "chunk_index": 84,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Soap is the benchmark of civilization.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_742.jpg",
+    "frame_index": 1470,
+    "similarity_score": 0.24021176993846893,
+    "chunk_index": 85,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "It's a brilliant metaphor, but it reveals Tyler's true nature.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_715.jpg",
+    "frame_index": 1440,
+    "similarity_score": 0.2667480409145355,
+    "chunk_index": 86,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He's part of the system.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_68.jpg",
+    "frame_index": 1400,
+    "similarity_score": 0.2667399048805237,
+    "chunk_index": 87,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He's just a parasite on the body of capitalism, not its killer.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_616.jpg",
+    "frame_index": 1330,
+    "similarity_score": 0.23146511614322662,
+    "chunk_index": 88,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He becomes a brand himself.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1231.jpg",
+    "frame_index": 260,
+    "similarity_score": 0.2256382554769516,
+    "chunk_index": 89,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Look at Marla Singer.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1033.jpg",
+    "frame_index": 40,
+    "similarity_score": 0.251045286655426,
+    "chunk_index": 90,
+    "search_context": "смена контекста -> Marla",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "Why does Tyler hate Marla so much?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_107.jpg",
+    "frame_index": 80,
+    "similarity_score": 0.2953813076019287,
+    "chunk_index": 91,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Because Marla Singer is real.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1097.jpg",
+    "frame_index": 110,
+    "similarity_score": 0.26499056816101074,
+    "chunk_index": 92,
+    "search_context": "смена контекста -> Marla",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "She's genuinely at rock bottom.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1051.jpg",
+    "frame_index": 60,
+    "similarity_score": 0.2207239270210266,
+    "chunk_index": 93,
+    "search_context": "удержание контекста (Marla)",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "She doesn't care about philosophy.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_562.jpg",
+    "frame_index": 1270,
+    "similarity_score": 0.19289475679397583,
+    "chunk_index": 94,
+    "search_context": "удержание контекста (Marla)",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "She's just trying to survive.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1457.jpg",
+    "frame_index": 510,
+    "similarity_score": 0.22620293498039246,
+    "chunk_index": 95,
+    "search_context": "удержание контекста (Marla)",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "And for Tyler, poverty is aesthetic.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1213.jpg",
+    "frame_index": 240,
+    "similarity_score": 0.23747305572032928,
+    "chunk_index": 96,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "It's a pose.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1231.jpg",
+    "frame_index": 260,
+    "similarity_score": 0.26369303464889526,
+    "chunk_index": 97,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He's like a rich kid playing punk.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_508.jpg",
+    "frame_index": 1210,
+    "similarity_score": 0.21380844712257385,
+    "chunk_index": 98,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "The narrator only starts to see this when Robert Paulson dies.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_210.jpg",
+    "frame_index": 880,
+    "similarity_score": 0.26206183433532715,
+    "chunk_index": 99,
+    "search_context": "смена контекста -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "That's when the mask falls off.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_201.jpg",
+    "frame_index": 870,
+    "similarity_score": 0.2612946033477783,
+    "chunk_index": 100,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He realizes that Tyler's freedom reeks of corpses.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_896.jpg",
+    "frame_index": 1640,
+    "similarity_score": 0.2556086778640747,
+    "chunk_index": 101,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And here's where it gets really interesting.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1231.jpg",
+    "frame_index": 260,
+    "similarity_score": 0.227054625749588,
+    "chunk_index": 102,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Fincher shifts the perspective.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_274.jpg",
+    "frame_index": 950,
+    "similarity_score": 0.2830275893211365,
+    "chunk_index": 103,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Up until now, we've been seeing Tyler through the eyes of someone who almost admires him.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_292.jpg",
+    "frame_index": 970,
+    "similarity_score": 0.24809885025024414,
+    "chunk_index": 104,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "But after Paulson's death, the camera stops chasing the red jacket.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_319.jpg",
+    "frame_index": 1000,
+    "similarity_score": 0.2641933560371399,
+    "chunk_index": 105,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "It lingers on the faces of those left in the room.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_355.jpg",
+    "frame_index": 1040,
+    "similarity_score": 0.29214850068092346,
+    "chunk_index": 106,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "On terrified eyes, trembling fingers, dirt under fingernails.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_409.jpg",
+    "frame_index": 1100,
+    "similarity_score": 0.23969009518623352,
+    "chunk_index": 107,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "On people who no longer resemble rebels at all.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_445.jpg",
+    "frame_index": 1140,
+    "similarity_score": 0.27133244276046753,
+    "chunk_index": 108,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "They look like soldiers who've been told to die without ever knowing why.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1088.jpg",
+    "frame_index": 100,
+    "similarity_score": 0.21281306445598602,
+    "chunk_index": 109,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "This is the crucial turning point.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1105.jpg",
+    "frame_index": 120,
+    "similarity_score": 0.26878267526626587,
+    "chunk_index": 110,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "The hero stops shining.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1079.jpg",
+    "frame_index": 90,
+    "similarity_score": 0.2677745819091797,
+    "chunk_index": 111,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "His charisma becomes a threat.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1042.jpg",
+    "frame_index": 50,
+    "similarity_score": 0.2546042203903198,
+    "chunk_index": 112,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And his beautiful philosophy turns into a convenient justification for someone else's suffering.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_107.jpg",
+    "frame_index": 80,
+    "similarity_score": 0.2750231921672821,
+    "chunk_index": 113,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Chuck Pollinuk has said in interviews that Fight Club is a story about growing up.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1682.jpg",
+    "frame_index": 760,
+    "similarity_score": 0.2998726963996887,
+    "chunk_index": 114,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "About a generation of men raised by women searching for a father.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_445.jpg",
+    "frame_index": 1140,
+    "similarity_score": 0.2231924831867218,
+    "chunk_index": 115,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "At first, the narrator's father was the system, his job.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_436.jpg",
+    "frame_index": 1130,
+    "similarity_score": 0.29481810331344604,
+    "chunk_index": 116,
+    "search_context": "смена контекста -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "Then his father became Tyler Durden, a cruel, demanding, yet charismatic daddy.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_409.jpg",
+    "frame_index": 1100,
+    "similarity_score": 0.3177918791770935,
+    "chunk_index": 117,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "And to truly become an adult, the narrator has to kill the father.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_427.jpg",
+    "frame_index": 1120,
+    "similarity_score": 0.28224867582321167,
+    "chunk_index": 118,
+    "search_context": "смена контекста -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "The final scene, a shot to himself.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1493.jpg",
+    "frame_index": 550,
+    "similarity_score": 0.2825857996940613,
+    "chunk_index": 119,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "Many think it's an act of suicide.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1475.jpg",
+    "frame_index": 530,
+    "similarity_score": 0.26756808161735535,
+    "chunk_index": 120,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "It's not.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1240.jpg",
+    "frame_index": 270,
+    "similarity_score": 0.22554990649223328,
+    "chunk_index": 121,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "It's an act of real autonomy.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1196.jpg",
+    "frame_index": 220,
+    "similarity_score": 0.21066182851791382,
+    "chunk_index": 122,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "For the first time in the whole film, the narrator makes a decision for himself.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1222.jpg",
+    "frame_index": 250,
+    "similarity_score": 0.3141072690486908,
+    "chunk_index": 123,
+    "search_context": "подтверждение -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "Not following an Ikea manual, not obeying Tyler Durden.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_238.jpg",
+    "frame_index": 910,
+    "similarity_score": 0.2613910436630249,
+    "chunk_index": 124,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "He kills the idea inside himself that he needs a leader.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_841.jpg",
+    "frame_index": 1580,
+    "similarity_score": 0.23650042712688446,
+    "chunk_index": 125,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "When he stands holding Marla Singer's hand as the buildings fall,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_814.jpg",
+    "frame_index": 1550,
+    "similarity_score": 0.29716557264328003,
+    "chunk_index": 126,
+    "search_context": "смена контекста -> Marla",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "this isn't Tyler's victory.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_355.jpg",
+    "frame_index": 1040,
+    "similarity_score": 0.2328520119190216,
+    "chunk_index": 127,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "The buildings collapse, yes.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1592.jpg",
+    "frame_index": 660,
+    "similarity_score": 0.23833702504634857,
+    "chunk_index": 128,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "The credit system is destroyed.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1574.jpg",
+    "frame_index": 640,
+    "similarity_score": 0.26325723528862,
+    "chunk_index": 129,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "But the narrator sees it with new eyes.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_427.jpg",
+    "frame_index": 1120,
+    "similarity_score": 0.23694480955600739,
+    "chunk_index": 130,
+    "search_context": "смена контекста -> Narrator",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He's no longer a space monkey.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_454.jpg",
+    "frame_index": 1150,
+    "similarity_score": 0.26702743768692017,
+    "chunk_index": 131,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He's a man who has accepted responsibility for his own shadow.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_481.jpg",
+    "frame_index": 1180,
+    "similarity_score": 0.281503289937973,
+    "chunk_index": 132,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "I want you to hit me as hard as you can.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_210.jpg",
+    "frame_index": 880,
+    "similarity_score": 0.24728283286094666,
+    "chunk_index": 133,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "That blow to himself, delivered in the final act, was inevitable.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_22.jpg",
+    "frame_index": 890,
+    "similarity_score": 0.27222007513046265,
+    "chunk_index": 134,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "And that's why the ending doesn't feel tragic.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_256.jpg",
+    "frame_index": 930,
+    "similarity_score": 0.27036094665527344,
+    "chunk_index": 135,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "It feels calm.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_292.jpg",
+    "frame_index": 970,
+    "similarity_score": 0.2586572766304016,
+    "chunk_index": 136,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "Fight Club is a rare story about a man where growing up isn't about victory or destruction.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_31.jpg",
+    "frame_index": 990,
+    "similarity_score": 0.33551281690597534,
+    "chunk_index": 137,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "It arrives in the moment the hero finally allows himself to be vulnerable.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_346.jpg",
+    "frame_index": 1030,
+    "similarity_score": 0.2990822494029999,
+    "chunk_index": 138,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He stops choosing between the hero image, the system, or some abstract idea.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_625.jpg",
+    "frame_index": 1340,
+    "similarity_score": 0.24687452614307404,
+    "chunk_index": 139,
+    "search_context": "удержание контекста (Narrator)",
+    "search_pool_size": 85
+  },
+  {
+    "audio_text": "He chooses a human being, Marla.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_562.jpg",
+    "frame_index": 1270,
+    "similarity_score": 0.26920971274375916,
+    "chunk_index": 140,
+    "search_context": "смена контекста -> Marla",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "And with her, a life where responsibility doesn't feel like a burden,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1457.jpg",
+    "frame_index": 510,
+    "similarity_score": 0.2334412932395935,
+    "chunk_index": 141,
+    "search_context": "удержание контекста (Marla)",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "but like the freedom to breathe.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1439.jpg",
+    "frame_index": 490,
+    "similarity_score": 0.23439602553844452,
+    "chunk_index": 142,
+    "search_context": "удержание контекста (Marla)",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "So why, 25 years later, do men still post pictures of Tyler Durden with the caption,",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1682.jpg",
+    "frame_index": 760,
+    "similarity_score": 0.3072472810745239,
+    "chunk_index": 143,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Goals?",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1105.jpg",
+    "frame_index": 120,
+    "similarity_score": 0.20578345656394958,
+    "chunk_index": 144,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Because it's easier to obey Tyler than to be truly free.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_238.jpg",
+    "frame_index": 910,
+    "similarity_score": 0.22993701696395874,
+    "chunk_index": 145,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Easier to shave your head and punch someone than to build a relationship with a real Marla Singer.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_201.jpg",
+    "frame_index": 870,
+    "similarity_score": 0.2780110538005829,
+    "chunk_index": 146,
+    "search_context": "смена контекста -> Marla",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "Easier to blow up a bank than to find meaning in a godless world.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_184.jpg",
+    "frame_index": 850,
+    "similarity_score": 0.28060808777809143,
+    "chunk_index": 147,
+    "search_context": "удержание контекста (Marla)",
+    "search_pool_size": 25
+  },
+  {
+    "audio_text": "Tyler Durden sold us the most seductive lie, that destruction is the way out.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_742.jpg",
+    "frame_index": 1470,
+    "similarity_score": 0.29500576853752136,
+    "chunk_index": 148,
+    "search_context": "смена контекста -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "This is your life, and it's getting shorter every minute.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_760.jpg",
+    "frame_index": 1490,
+    "similarity_score": 0.26166072487831116,
+    "chunk_index": 149,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "But the truth is, Tyler is just another Ikea catalog, for people angry at the world.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1088.jpg",
+    "frame_index": 100,
+    "similarity_score": 0.2225572168827057,
+    "chunk_index": 150,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "Don't be space monkeys.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1079.jpg",
+    "frame_index": 90,
+    "similarity_score": 0.23824289441108704,
+    "chunk_index": 151,
+    "search_context": "удержание контекста (Tyler)",
+    "search_pool_size": 58
+  },
+  {
+    "audio_text": "You have a name, and you don't need Tyler to know who you are.",
+    "frame_file": "data\\projects\\FightClub\\cache\\frames\\scene_1105.jpg",
+    "frame_index": 120,
+    "similarity_score": 0.2700026035308838,
+    "chunk_index": 152,
+    "search_context": "подтверждение -> Tyler",
+    "search_pool_size": 58
+  }
+]

@@ -1,0 +1,16 @@
+current_project: FightClub
+models:
+  clip_model: clip-ViT-B-32
+  device: cpu
+  whisper_size: small
+params:
+  image_size: 224
+  min_scene_duration: 1.5
+  scene_threshold: 27.0
+paths:
+  cache_dir: data\projects\FightClub\cache
+  frames_dir: data\projects\FightClub\cache\frames
+  input_audio: data\projects\FightClub\input\voice.mp3
+  input_video: data\projects\FightClub\input\movie.mp4
+  output_video: data\projects\FightClub\output\final_result.mp4
+  project_root: data\projects\FightClub

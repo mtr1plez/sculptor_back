@@ -1,0 +1,10 @@
+pyyaml
+tqdm
+opencv-python
+numpy
+torch
+sentence-transformers
+scenedetect[opencv]
+pillow
+google-generativeai
+python-dotenv
